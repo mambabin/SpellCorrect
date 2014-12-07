@@ -1,0 +1,7 @@
+en.txt
+en.dict
+zh.txt
+zh.dict
+*.o
+*.exe
+*.swp
